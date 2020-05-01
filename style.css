@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(header.jpg) no-repeat center center fixed; 
+  background: url("content/background.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,7 +23,9 @@ hr{
   height: 10rem;
 }
 .btn{
-  font-weight: 700;
+  width: 185px;
+  height: 60px;
+  background-color: #ff00ff;
   border-radius: 300px;
   text-transform: uppercase;
 }
@@ -39,3 +41,126 @@ hr{
 .btn-xl{
   padding: 1rem 2rem;
 }
+.Learn_More {
+  font-size: 24px;
+  font-family: "Abril Fatface";
+  color: rgb(250, 241, 241);
+  line-height: 0.646;
+  text-align: center;
+  text-shadow: -6.997px 3.878px 7.83px rgba(164, 56, 135, 0.45);
+  position: absolute;
+  left: 400.37px;
+  top: 400.205px;
+  width: 276px;
+  height: 56px;
+  z-index: 9;
+}
+
+.MMB_Graphics {
+  font-size: 45px;
+  font-family: "Montserrat";
+  color: rgb(251, 247, 247);
+  font-weight: bold;
+  line-height: 0.691;
+  text-align: left;
+  text-shadow: -13px 0px 0px rgba(164, 56, 135, 0.29);
+  -moz-transform: matrix( 4.45671326146888,0,7.07431745934989e-16,4.45671326146888,0,0);
+  -webkit-transform: matrix( 4.45671326146888,0,7.07431745934989e-16,4.45671326146888,0,0);
+  -ms-transform: matrix( 4.45671326146888,0,7.07431745934989e-16,4.45671326146888,0,0);
+  position: absolute;
+  left: 809.504px;
+  top: 257.272px;
+  z-index: 13;
+}
+.my_mmb_graphics {
+  background-image: url("content/my ribbon copy.png")  ;
+  position: absolute;
+  left: 227px;
+  top: 150px;
+  width: 1508px;
+  height: 197px;
+  z-index: 13;
+}
+.my_web_design {
+  background-image: url("content/my ribbon copy 2.png");
+  position: absolute;
+  left: 495px;
+  top: 750px;
+  width: 815px;
+  height: 150px;
+  z-index: 11;
+}
+.Gradient_Map_1 {
+  background-image: url("content/Gradient Map 2.png");
+  position: absolute;
+  left: 77px;
+  top:200px;
+  width: 1753px;
+  height: 703px;
+  z-index: 4;
+}
+.My_PS_logo {
+  background-image: url("content/My PS logo.jpg");
+  border: none;
+  border-radius: 1em;
+  position: absolute;
+  left: 420px;
+  top:240px;
+  width: 118px;
+  height: 147px;
+  z-index: 28;
+}
+.MY_AI_logo {
+  background-image: url("content/MY AI logo.jpg");
+  border: none;
+  border-radius: 1em;
+  position: absolute;
+  left: 626px;
+  top: 240px;
+  width: 121px;
+  height: 151px;
+  z-index: 27;
+}
+.JS_logo {
+  background-image: url("content/JS logotest.png") ;
+  background-color: gold;
+  background-repeat: no-repeat;
+  background-clip: initial;
+  border: none;
+  border-radius: 1em;
+  position: absolute;
+  left: 1252px;
+  top: 240px;
+  width: 125px;
+  height: 165px;
+  z-index: 17;
+}
+.CSS_logo {
+  background-image: url("content/CSS logo.png");
+  background-color: rgb(15, 129, 167);
+  background-repeat: no-repeat;
+  background-clip: initial;
+  border: none;
+  border-radius: 1em;
+  position: absolute;
+  left: 1045px;
+  top: 240px;
+  width: 125px;
+  height: 165px;
+  z-index: 16;
+}
+.HTML_5_logo {
+  background-image: url("content/HTML 5 logo.png");
+  background-color: lightsalmon;
+  background-repeat: no-repeat;
+  background-clip: initial;
+  border: none;
+  border-radius: 1em;
+  position: absolute;
+  left: 835px;
+  top: 240px;
+  width: 125px;
+  height: 165px;
+  z-index: 15;
+}
+

@@ -1,0 +1,132 @@
+.Learn_More {
+  font-size: 48px;
+  font-family: "Abril Fatface";
+  color: rgb(250, 241, 241);
+  line-height: 0.646;
+  text-align: left;
+  text-shadow: -6.997px 3.878px 7.83px rgba(164, 56, 135, 0.45);
+  position: absolute;
+  left: 785.37px;
+  top: 900.205px;
+  width: 276px;
+  height: 56px;
+  z-index: 9;
+}
+.MMB_Graphics {
+  font-size: 45px;
+  font-family: "Montserrat";
+  color: rgb(251, 247, 247);
+  font-weight: bold;
+  line-height: 0.691;
+  text-align: left;
+  text-shadow: -13px 0px 0px rgba(164, 56, 135, 0.29);
+  -moz-transform: matrix( 4.45671326146888,0,7.07431745934989e-16,4.45671326146888,0,0);
+  -webkit-transform: matrix( 4.45671326146888,0,7.07431745934989e-16,4.45671326146888,0,0);
+  -ms-transform: matrix( 4.45671326146888,0,7.07431745934989e-16,4.45671326146888,0,0);
+  position: absolute;
+  left: 809.504px;
+  top: 257.272px;
+  z-index: 13;
+}
+.Web_Design {
+  font-size: 150px;
+  font-family: "Abril Fatface";
+  color: rgb(248, 239, 239);
+  line-height: 0.207;
+  text-align: left;
+  text-shadow: -10px 0px 0px rgba(208, 106, 180, 0.42);
+  position: absolute;
+  left: 493.937px;
+  top: 683.911px;
+  z-index: 11;
+}
+.my_ribbon_copy {
+  background-image: url("my ribbon copy.png");
+  position: absolute;
+  left: 227px;
+  top: 146px;
+  width: 1508px;
+  height: 197px;
+  z-index: 13;
+}
+.my_ribbon_copy_2 {
+  background-image: url("my ribbon copy 2.png");
+  position: absolute;
+  left: 495px;
+  top: 609px;
+  width: 815px;
+  height: 150px;
+  z-index: 11;
+}
+.Gradient_Map_1 {
+  background-image: url("Gradient Map 1.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 3;
+}
+.My_PS_logo {
+  background-image: url("My PS logo.png");
+  position: absolute;
+  left: 420px;
+  top: 371px;
+  width: 118px;
+  height: 147px;
+  z-index: 28;
+}
+.MY_AI_logo {
+  background-image: url("MY AI logo.png");
+  position: absolute;
+  left: 626px;
+  top: 371px;
+  width: 121px;
+  height: 151px;
+  z-index: 27;
+}
+.JS_logo {
+  background-image: url("JS logo.png");
+  position: absolute;
+  left: 1252px;
+  top: 371px;
+  width: 111px;
+  height: 150px;
+  z-index: 17;
+}
+.CSS_logo {
+  background-image: url("CSS logo.png");
+  position: absolute;
+  left: 1045px;
+  top: 360px;
+  width: 119px;
+  height: 161px;
+  z-index: 16;
+}
+.HTML_5_logo {
+  background-image: url("HTML 5 logo.png");
+  position: absolute;
+  left: 835px;
+  top: 368px;
+  width: 123px;
+  height: 165px;
+  z-index: 15;
+}
+.background {
+  background-image: url("background.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 3;
+}
+.Gradient_Map_1 {
+  background-image: url("Gradient Map 1.png");
+  position: absolute;
+  left: 77px;
+  top: 130px;
+  width: 1753px;
+  height: 703px;
+  z-index: 4;
+}
